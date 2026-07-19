@@ -1,6 +1,6 @@
 # Screem500
 
-Mijlad bin Mishari Al-Subaie — Cybersecurity Expert (CEH · CHFI), Digital Forensics Investigator, and author.
+Mijlad bin Mishari Al-Subaie - Cybersecurity Expert (CEH · CHFI), Digital Forensics Investigator, and author.
 
 Independent security researcher | AI agent security · Threat intelligence · Bug bounty
 
